@@ -18,7 +18,7 @@
       <body>  
            <br /><br />  
            <div class="container" style="width:500px;">  
-                <h3 align="center">Autocomplete textbox using jQuery, PHP and MySQL</h3><br />  
+                <h3 align="center">Autocomplete textbox using jQuery, PHP and MySQLaa</h3><br />  
                 <label>Enter Country Name</label>  
                 <input type="text" name="country" id="country" class="form-control" placeholder="Enter Country Name" />  
                 <div id="countryList"></div>  
